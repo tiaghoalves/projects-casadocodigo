@@ -1,0 +1,23 @@
+<script src="/socket.io/socket.io.js"></script>
+<script>
+  var socket = io.connect('http://localhost:3000');
+  
+  socket.emit('join', '<%- sala %>');
+  
+  socket.on('send-client', function (msg) {
+    $('#chat').append(msg);
+  });
+  
+  $(function(){
+    $('#send').click(function(){
+      var msg = $('#mensagem');
+      socket.emit('send-server', msg.val());
+      msg.val('');
+      msg.focus();
+    });
+
+    $('#exit').click(function() {
+      socket.emit('disconnect');
+    });
+  });
+</script>

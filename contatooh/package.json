@@ -1,0 +1,18 @@
+{
+  "name": "contatooh",
+  "version": "1.0.0",
+  "description": "Minha versao do livro Mean Full Stack JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Alves",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.6.7",
+    "ejs": "^0.8.8",
+    "express": "^4.8.8",
+    "express-load": "^1.1.15",
+    "method-override": "^2.1.3"
+  }
+}

@@ -1,0 +1,24 @@
+<% include ../header %>
+<% include chat_script %>
+<header class="text-center page-header">
+	<h2>Ntalk - Chat</h2>
+</header>
+<section>
+<div class="row-fluid">
+	<div class="well">
+		<pre id="chat" class="pre-scrollable" style="width:auto; height:250px;"></pre>
+		<div class="text-center">
+		  <div class="input-group">
+		    <span class="input-group-addon glyphicon glyphicon-envelope"></span>
+		    <input type="text" class="form-control col-sm-4 col-offset-4" id="mensagem" placeholder="Digite sua mensagem" />
+		    <span class="input-group-btn">
+		      <button type="button" class="btn btn-default" id="send">Enviar</button>
+		      <a class="btn btn-info" href="/contatos" id="exit">Sair do Chat</a>
+		    </span>
+		  </div>
+		</div>
+	</div>	
+</div>
+</section>
+<% include ../exit %>
+<% include ../footer %>

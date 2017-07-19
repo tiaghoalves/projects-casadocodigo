@@ -1,0 +1,7 @@
+{
+    "SECRET": "ntalk",
+    "KEY": "ntalk.sid",
+    "MAX_AGE": {
+      "maxAge": 3600000
+    }
+}

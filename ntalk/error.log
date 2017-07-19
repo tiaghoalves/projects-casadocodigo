@@ -1,0 +1,480 @@
+events.js:160
+events.js:160
+events.js:160
+      throw er; // Unhandled 'error' event
+      throw er; // Unhandled 'error' event
+      throw er; // Unhandled 'error' event
+      ^
+      ^
+      ^
+
+
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:185:24)
+    at Socket.<anonymous> (/home/tiago/Documentos/livros-casadocodigo/versoes-casadocodigo/ntalk/node_modules/socket.io-redis/node_modules/redis/index.js:95:14)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1272:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
